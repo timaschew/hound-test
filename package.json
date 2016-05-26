@@ -1,0 +1,22 @@
+{
+  "name": "hound-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timaschew/hound-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timaschew/hound-test/issues"
+  },
+  "homepage": "https://github.com/timaschew/hound-test#readme",
+  "devDependencies": {
+    "eslint": "^1.6.0"
+  }
+}
