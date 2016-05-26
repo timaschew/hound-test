@@ -1,4 +1,7 @@
-var x = 1;
+
+
+var x  = 1
+
+
 x++;
-const y = 0;
-y--;
+const y = 0
