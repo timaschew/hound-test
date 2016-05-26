@@ -4,4 +4,6 @@ function foobar(){ return undefined}
 
 x++;
 const y = 0;
+
+
 foobar()
