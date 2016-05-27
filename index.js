@@ -1,7 +1,5 @@
-var x = 1
-
-function foobar(){ return undefined}
-
+let x = 1;
+function foobar() { return undefined;}
 x++;
 const y = 0;
-foobar()
+foobar(y);
