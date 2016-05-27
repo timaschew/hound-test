@@ -1,8 +1,8 @@
 {
     "rules": {},
     "env": {
-        "es6": false,
+        "es6": true,
         "browser": true
     },
-    "extends": "eslint:recommended"
+    "extends": "airbnb"
 }
